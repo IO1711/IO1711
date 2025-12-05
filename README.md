@@ -31,12 +31,10 @@ I’m a developer passionate about clean architecture, creative design, and buil
 ### **Frameworks & Tools**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007AFF.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
@@ -57,26 +55,6 @@ A multi-service platform containing:
 - DataFlow (`State`, `Binding`, `Observable`, `Environment`)  
 - Custom UI components  
 - 3D interactions (SceneKit + RealityKit)
-
----
-
-## 📊 GitHub Stats
-
-### 🧮 General Stats
-![Bilolbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IO1711&show_icons=true&theme=tokyonight)
-
-### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IO1711&layout=compact&theme=tokyonight)
-
----
-
-## 🧊 3D Contribution Graph
-
-
-![3D Contribution Graph](https://raw.githubusercontent.com/IO1711/IO1711/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-If you don’t have the graph generated yet, you can install it here:  
-https://github.com/yoshi389111/github-profile-3d-contrib
 
 ---
 
