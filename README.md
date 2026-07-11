@@ -39,25 +39,6 @@ I’m a developer passionate about clean architecture, creative design, and buil
 
 ---
 
-## 📚 What I’m Working On
-
-### **🔧 Consulting Website**
-A multi-service platform containing:
-- Opportunities (grants, internships, scholarships)
-- Courses & mentorship flows  
-- Document verification system  
-- Admin dashboards  
-- Role-based access  
-- Full backend + frontend ecosystem
-
-### **📱 iOS Development**
-- SwiftUI architecture patterns  
-- DataFlow (`State`, `Binding`, `Observable`, `Environment`)  
-- Custom UI components  
-- 3D interactions (SceneKit + RealityKit)
-
----
-
 ## 📫 Contact Me
 
 You can reach me via:
