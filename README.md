@@ -22,8 +22,8 @@ I am an iOS Engineer specializing in scalable mobile architectures, native layou
 
 ### 📱 Featured Projects
 
-* **[Skrbl](https://apple.com)** — Zero-backend, real-time multiplayer drawing game utilizing peer-to-peer Wi-Fi and Bluetooth local network discovery.
-* **MurMur** — AI-driven companion app built as team leader at the Apple Developer Academy, combining Gemini AI processing with custom SwiftUI emotional animations.
+* **[Skrbl](https://apps.apple.com/uz/app/skrbl/id6796380362)** — Zero-backend, real-time multiplayer drawing game utilizing peer-to-peer Wi-Fi and Bluetooth local network discovery.
+* **[MurMur](https://apps.apple.com/uz/app/murmur/id6767040323)** — AI-driven companion app built as team leader at the Apple Developer Academy, combining Gemini AI processing with custom SwiftUI emotional animations.
 
 ---
 
@@ -31,4 +31,4 @@ I am an iOS Engineer specializing in scalable mobile architectures, native layou
 
 * **Portfolio:** [bilol.fun](https://bilol.fun)
 * **Email:** rayimovbilolbek@gmail.com
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/bilolbek-rayimov-a1b637202)
