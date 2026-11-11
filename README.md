@@ -1,30 +1,34 @@
+# 👋 Hi, I’m **Bilolbek Rayimov** (Bill)
 
-👋 Hi, I’m Bilolbek Rayimov (Bill)
+I am an iOS Engineer specializing in scalable mobile architectures, native layouts, and interactive graphics. I build seamless mobile applications backed by strong algorithmic foundations and data engineering experience.
 
-Welcome! I am an iOS Engineer passionate about scalable architectures, native frameworks, and interactive graphics. I build seamless mobile products backed by algorithmic problem-solving and cross-border database experience.
+---
 
-🚀 About Me
+### 🚀 Quick Summary
+- **iOS Developer** at Turonbank JSCB — Engineering high-security retail banking features using SwiftUI, UIKit interoperability, and SwiftData.
+- **Apple Developer Academy Alumnus** (Naples, Italy) — Led agile engineering teams to ship responsive, native consumer apps.
+- **Yandex Algorithm Academy** — Awarded the "10 out of 10" Certificate for advanced Data Structures & Algorithms.
+- **Graphics Research:** Actively experimenting with GPU programming and real-time shader pipelines via **Metal**.
 
-• 📱 iOS Developer at Turonbank JSCB — building high-security retail banking features (SwiftUI/UIKit, SwiftData).
-• 🍏 Alumnus of the Apple Developer Academy (Naples, Italy).
-• 🏆 Yandex Algorithm Academy "10 out of 10" Certificate holder for advanced Data Structures & Algorithms.
-• 🎨 Exploring low-level graphics processing and performance optimization with Metal.
+---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
-swift
-let languages  = ["Swift", "SQL", "TypeScript", "JavaScript", "Java"]
-let frameworks = ["SwiftUI", "UIKit (UIViewRepresentable)", "SwiftData", "Combine", "Core Data"]
-let tools      = ["GitLab / GitHub", "URLSession", "Keychain Services", "TestFlight", "MS SQL Server"]
-Use code with caution.
+* **Languages:** Swift, SQL, TypeScript, JavaScript, Java, PowerShell
+* **Frameworks:** SwiftUI, UIKit (`UIViewRepresentable`), SwiftData, Combine, Core Data
+* **Tools & Systems:** GitLab, GitHub, URLSession, Keychain Services, TestFlight, App Store Connect, MS SQL Server
 
-📱 Main Projects
+---
 
-• Skrbl — A zero-backend, real-time multiplayer drawing game built with peer-to-peer local network connectivity (Wi-Fi/Bluetooth).
-• MurMur — An AI-driven companion app featuring animated SwiftUI gesture/emotion engines, built as team leader at the Apple Developer Academy.
+### 📱 Featured Projects
 
-📫 Connect With Me
+* **[Skrbl](https://apple.com)** — Zero-backend, real-time multiplayer drawing game utilizing peer-to-peer Wi-Fi and Bluetooth local network discovery.
+* **MurMur** — AI-driven companion app built as team leader at the Apple Developer Academy, combining Gemini AI processing with custom SwiftUI emotional animations.
 
-🌐 Portfolio: bilol.fun
-📩 Email: rayimovbilolbek@gmail.com
-💼 LinkedIn: linkedin.com
+---
+
+### 📫 Connect With Me
+
+* **Portfolio:** [bilol.fun](https://bilol.fun)
+* **Email:** rayimovbilolbek@gmail.com
+* **LinkedIn:** [://linkedin.com](https://linkedin.com)
